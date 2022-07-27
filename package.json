@@ -1,6 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "full-stack-project",
   "version": "0.1.0",
+=======
+>>>>>>> b58fc046a0f8c301e732b1f07b98452af24f09bb
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -9,6 +12,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+<<<<<<< HEAD
     "mongodb": "^4.8.1",
     "next": "12.2.3",
     "react": "18.2.0",
@@ -17,5 +21,14 @@
   "devDependencies": {
     "eslint": "8.20.0",
     "eslint-config-next": "12.2.3"
+=======
+    "next": "12.1.4",
+    "react": "18.0.0",
+    "react-dom": "18.0.0"
+  },
+  "devDependencies": {
+    "eslint": "8.12.0",
+    "eslint-config-next": "12.1.4"
+>>>>>>> b58fc046a0f8c301e732b1f07b98452af24f09bb
   }
 }
